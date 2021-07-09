@@ -1,15 +1,23 @@
-body{
-    text-align: center;
-    background-image: url("https://i.pinimg.com/originals/c1/5c/ba/c15cbae66a8a930a1cb292aaf60bb815.jpg");
-    background-size: cover;
+h1{
+    margin-bottom: 30px;
+    color:royalblue;
+    text-decoration: underline;
 }
-
-#button_sort{
-    display: none;
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    border:solid;
+    font-weight: bold;
 }
-
-ol.guestlist>li
-{
- padding-right: 35px;  
-
+button{
+    margin-bottom: 20px;
+    background-color: pink;
+    font-weight: bold;
 }
+hr{
+    margin-bottom: 20px;
+    }
+    body{
+        background-color:lightpink;
+    }
